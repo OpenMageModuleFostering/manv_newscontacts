@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package>
+    <name>Manv_Newscontacts</name>
+    <version>1.0.0.1</version>
+    <stability>stable</stability>
+    <license>OSL</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Newsleter with contact us added a check box on contact us page .&#xD;
+</summary>
+    <description>Newsleter with contact us added a check box on contact us page .&#xD;
+</description>
+    <notes>Newsleter with contact us added a check box on contact us page .&#xD;
+</notes>
+    <authors><author><name>Manvendra Sharma</name><user>sharmamanvendra</user><email>sharmamanvendra6@gmail.com</email></author></authors>
+    <date>2013-12-19</date>
+    <time>10:11:07</time>
+    <contents><target name="mageetc"><dir name="modules"><file name="Manv_Newscontacts.xml" hash="cc698af1afe66861afc54764412eeee0"/></dir></target><target name="magelocal"><dir name="Manv"><dir name="Newscontacts"><dir name="controllers"><file name="IndexController.php" hash="375bc0a421ede5dfb99be9410e7f9f10"/></dir><dir name="etc"><file name="config.xml" hash="1d6c714a88418d88a89f57031ab77cd8"/></dir></dir></dir></target><target name="magedesign"><dir name="frontend"><dir name="default"><dir name="default"><dir name="template"><dir name="contacts"><file name="form.phtml" hash="d8153da2b16c01394adfc11578d04c74"/></dir></dir></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
+</package>

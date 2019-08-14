@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <frontend>
+        <routers>
+            <contacts>
+                <args>
+                    <modules>
+                         <Manv_Newscontacts before="Mage_Contacts">Manv_Newscontacts</Manv_Newscontacts>
+                    </modules>
+                </args>
+            </contacts>
+        </routers>
+    </frontend>
+</config>

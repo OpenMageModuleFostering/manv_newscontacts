@@ -1,0 +1,17 @@
+{
+    "name": "OpenMageModuleFostering/Manv_Newscontacts",
+    "type": "magento-module",
+    "license": "OSL",
+    "homepage": "",
+    "description": "Newsleter with contact us added a check box on contact us page .
+",
+    "authors": [
+    {
+        "name": "Manvendra Sharma",
+        "email": "sharmamanvendra6@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
