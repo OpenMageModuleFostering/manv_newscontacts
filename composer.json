@@ -1,5 +1,7 @@
 {
     "keywords": [
         "openmage-module"
-    ]
+    ],
+    "name": "openmage-module-fostering\/manv_newscontacts",
+    "license": "OSL-3.0"
 }
